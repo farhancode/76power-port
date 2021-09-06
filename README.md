@@ -62,6 +62,7 @@ $ cat /sys/bus/pci/devices/0000:01:00.0/device
 
 Navigate to 
 > /usr/share/doc/nvidia-driver/supported-gpus.json
+
 Extract supported-gpus archive
 and open supported-gpus.json in browser
 now search for your gpu within it usind device id we got earlier
