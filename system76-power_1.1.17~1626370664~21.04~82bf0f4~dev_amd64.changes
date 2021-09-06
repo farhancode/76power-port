@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 11:37:44 -0600
+Source: system76-power
+Binary: system76-power system76-power-dbgsym
+Architecture: amd64
+Version: 1.1.17~1626370664~21.04~82bf0f4~dev
+Distribution: hirsute
+Urgency: medium
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Changed-By: Pop OS (ISO Signing Key) <info@system76.com>
+Description:
+ system76-power - System76 Power Management
+Changes:
+ system76-power (1.1.17~1626370664~21.04~82bf0f4~dev) hirsute; urgency=medium
+ .
+   * Auto Build
+Checksums-Sha1:
+ c315aa2f6654a3ceea8b8b383cdd45292efc1ef1 2361788 system76-power-dbgsym_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb
+ dbdbd72055585c709c8b49f81a063dc3ca785712 6623 system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.buildinfo
+ 5fa2e28fb87eb48e54f2301e25d44cfcccb63b3c 739812 system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb
+Checksums-Sha256:
+ a2877279c043de9354f7094caf0051b8ad87ffd1ff415cfaca0c5fe5a7d5b5c6 2361788 system76-power-dbgsym_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb
+ 7bdcf18cece2ccec852918896e098645fd838427437fd6c2154b5caee356c361 6623 system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.buildinfo
+ c6ce50ed777ae7fe4cfd280102a842565319cf57c0f2f06b9a73c5cf468f8a64 739812 system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb
+Files:
+ c6631f78bcbf872c4f47799ee336993f 2361788 debug optional system76-power-dbgsym_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb
+ 532ec95b82abbf2e814561b396b70e91 6623 admin optional system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.buildinfo
+ b898c5738debb235cba560d5a815af56 739812 admin optional system76-power_1.1.17~1626370664~21.04~82bf0f4~dev_amd64.deb

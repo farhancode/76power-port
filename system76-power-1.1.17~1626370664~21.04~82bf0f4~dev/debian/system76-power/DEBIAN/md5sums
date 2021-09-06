@@ -1,0 +1,5 @@
+bbdb2a87a78d02dee78f42dc84a39ef7  usr/bin/system76-power
+7a2a305cfc35bce452cc51da7537f658  usr/lib/systemd/system/system76-power.service
+7817d76fd8523595af4ac5a4721ee5a4  usr/share/doc/system76-power/changelog.gz
+2fe98eeb4a0c5cbd33d350f41d9b65c4  usr/share/doc/system76-power/copyright
+b989806e569379a137666bc57c7ea4bf  usr/share/polkit-1/actions/com.system76.powerdaemon.policy

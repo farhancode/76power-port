@@ -1,0 +1,13 @@
+Package: system76-power
+Version: 1.1.17~1626370664~21.04~82bf0f4~dev
+Architecture: amd64
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Installed-Size: 2659
+Depends: dbus, systemd, ubuntu-drivers-common, libc6 (>= 2.18), libdbus-1-3 (>= 1.9.14), libgcc-s1 (>= 4.2), libusb-1.0-0 (>= 2:1.0.9)
+Conflicts: nvidia-prime
+Replaces: nvidia-prime
+Provides: nvidia-prime
+Section: admin
+Priority: optional
+Homepage: https://github.com/pop-os/system76-power
+Description: System76 Power Management

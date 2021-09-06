@@ -1,0 +1,12 @@
+Package: system76-power-dbgsym
+Source: system76-power
+Version: 1.1.17~1626370664~21.04~82bf0f4~dev
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Installed-Size: 3097
+Depends: system76-power (= 1.1.17~1626370664~21.04~82bf0f4~dev)
+Section: debug
+Priority: optional
+Description: debug symbols for system76-power
+Build-Ids: 4fd1785c629d24eb2b449b242ff435773ecdcae6
